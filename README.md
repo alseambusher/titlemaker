@@ -11,4 +11,4 @@ python train.py
 python predict.py
 ```
 
-Models trained on offer manager can be found [here](https://git.corp.adobe.com/alse/titlemaker/releases/tag/v1).
+Models trained on offer manager can be found [here](https://github.com/alseambusher/titlemaker/releases).
